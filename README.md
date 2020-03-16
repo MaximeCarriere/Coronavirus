@@ -23,8 +23,8 @@ The model predict over time:
 
 To do so, the model uses two parameters: 
 
-- “B”
-
+- Beta: The parameter controlling how often a susceptible-infected contact results in a new infection.
+- Gamma: The rate an infected recovers and moves into the resistant phase.
 
 
 ## References 

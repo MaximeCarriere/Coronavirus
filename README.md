@@ -28,7 +28,7 @@ To do so, the model uses two parameters:
 
 The model is based on 3 intereconneted differential equations using the parameters:
 
-<img width="200" alt="differential_equation" src="https://user-images.githubusercontent.com/55028120/76787601-b0244880-67b9-11ea-82b9-776a9efe16da.png">
+<img width="350" alt="differential_equation" src="https://user-images.githubusercontent.com/55028120/76787601-b0244880-67b9-11ea-82b9-776a9efe16da.png">
 
 
 

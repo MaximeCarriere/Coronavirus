@@ -10,6 +10,12 @@ The goal of this model is to predict and explain the spread of the Covid-19.
 
 This model is an adapation of the SIR model [1]. This epidemiologic model is well used for the spread of virus such as influenza, Ebola and now Covid-19.
 
+The model predict over time: 
+
+- Number of infected cases
+- Number of recovered cases
+- Number of susceptibile cases
+- Number of deaths (in our adaptation)
 
 
 

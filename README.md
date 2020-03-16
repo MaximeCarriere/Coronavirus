@@ -40,6 +40,7 @@ Gamma control the recovery and the resistant phase. For the Covid-19, an infecte
 
 Thus, the immunity parameter in the SIR model cannot be applied for the Covid-19. In our modification this parameter is, therefore, set to 0. The recovered rate is now governed by the probability of surviving the virus. This might change in future update. 
 
+The death rate for the Covid-19 differs according to age, gender and underlying disorders. Previous research showed that it could reach 12% in infection site [4], but the death rate based on actual data is around 7% [5].
 
 ## References 
 
@@ -48,3 +49,7 @@ Thus, the immunity parameter in the SIR model cannot be applied for the Covid-19
 [2] https://www.reuters.com/article/us-china-health-japan/japanese-woman-confirmed-as-coronavirus-case-for-2nd-time-weeks-after-initial-recovery-idUSKCN20L0BI
 
 [3] https://www.caixinglobal.com/2020-02-26/14-of-recovered-covid-19-patients-in-guangdong-tested-positive-again-101520415.html
+
+[4] https://wwwnc.cdc.gov/eid/article/26/6/20-0233_article
+
+[5] https://www.worldometers.info/coronavirus/

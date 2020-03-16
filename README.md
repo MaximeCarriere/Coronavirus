@@ -42,6 +42,12 @@ Thus, the immunity parameter in the SIR model cannot be applied for the Covid-19
 
 The death rate for the Covid-19 differs according to age, gender and underlying disorders. Previous research showed that it could reach 12% in infection site [4], but the death rate based on actual data is around 7% [5].
 
+Moreover, the duration of hospitalisation or quarantine before a full recovery varies with the symptome severity. According to expert sources, the mean time is around 14 days. 
+
+Thus, our model for recovery is now: 
+
+**Recovered(t) = Infected(t-14)*(1-0.93)**
+
 ## References 
 
 [1] http://systems-sciences.uni-graz.at/etextbook/sw2/sir.html

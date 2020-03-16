@@ -46,7 +46,10 @@ Moreover, the duration of hospitalisation or quarantine before a full recovery v
 
 Thus, our model for recovery is now: 
 
+<p align="center">
 **Recovered(t) = Infected(t-14)*(1-0.93)**
+</p>
+
 
 ## References 
 

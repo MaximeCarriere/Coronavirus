@@ -50,7 +50,11 @@ Thus, our model for recovery is now:
   Recovered(t) = Infected(t-14)*(1-0.07)
 </p>
 
-This means that the number of recovered cases at the time t is equal to the number of infected cases 14 days before times 93%, since 7% will die. 
+This means that the number of recovered cases at the time t is equal to the number of infected cases 14 days before times 93%, since 7% will die. This simplification of the model is allow to change over time.
+
+### Beta
+
+Beta controlls the infection rate. This means how many people an infected case will infect others. The transmission rate for a seasonal flue is around 1.3 [6], 2.7 for Ebola [7] and 2.35 for the Covid_19 [8]. In the later cited paper, the study showed that the transmission rate might change. A further analysis will show the importance of quarantine. 
 
 
 ## References 
@@ -64,3 +68,16 @@ This means that the number of recovered cases at the time t is equal to the numb
 [4] https://wwwnc.cdc.gov/eid/article/26/6/20-0233_article
 
 [5] https://www.worldometers.info/coronavirus/
+
+[6] https://www.healthline.com/health-news/how-deadly-is-the-coronavirus-compared-to-past-outbreaks#So,-when-will-things-calm-down-with-COVID-19?-
+
+[7] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4843458/
+
+[8] https://www.thelancet.com/action/showPdf?pii=S1473-3099%2820%2930144-4
+
+
+
+
+
+
+

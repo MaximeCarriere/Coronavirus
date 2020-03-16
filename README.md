@@ -33,10 +33,16 @@ The model is based on 3 intereconneted differential equations using the paramete
 </p>
 
 
+## Understand the paramters
+### Gamma
 
-
+Gamma control the recovery and the resistant phase. For the Covid-19, an infected case who has recovered is still susceptible to be re-infected. Indeed, a Japaneese tour bus guide has been tested positive after having recovered from an earlier infection [2]. A Chinese report also claimed that 14% of Recovered Covid-19 Patients in Guangdong Tested Positive Again [3] 
 
 
 ## References 
 
 [1] http://systems-sciences.uni-graz.at/etextbook/sw2/sir.html
+
+[2] https://www.reuters.com/article/us-china-health-japan/japanese-woman-confirmed-as-coronavirus-case-for-2nd-time-weeks-after-initial-recovery-idUSKCN20L0BI
+
+[3] https://www.caixinglobal.com/2020-02-26/14-of-recovered-covid-19-patients-in-guangdong-tested-positive-again-101520415.html

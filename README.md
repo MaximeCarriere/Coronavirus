@@ -19,7 +19,7 @@ The model predict over time:
 
 
 
-![Explanation_SIR](https://user-images.githubusercontent.com/55028120/76786234-283d3f00-67b7-11ea-96f4-9fdf743e3325.png)
+![Explanation_SIR](https://user-images.githubusercontent.com/55028120/76786234-283d3f00-67b7-11ea-96f4-9fdf743e3325.png | width=100)
 
 
 To do so, the model uses two parameters: 

@@ -8,7 +8,7 @@ The goal of this model is to predict and explain the spread of the Covid-19.
 
 ## The model
 
-This model is an adapation of the SIR model [1]. This epidemiologic model is well used for the spread of virus such as influenza, Ebola and now Covid-19.
+This model is an modified version of the SIR model [1]. This epidemiologic model is well used for the spread of virus such as influenza, Ebola and now Covid-19.
 
 The model predict over time: 
 
@@ -23,8 +23,8 @@ The model predict over time:
 
 To do so, the model uses two parameters: 
 
-- Beta: The parameter controlling how often a susceptible-infected contact results in a new infection.
 - Gamma: The rate an infected recovers and moves into the resistant phase.
+- Beta: The parameter controlling how often a susceptible-infected contact results in a new infection.
 
 
 ## References 

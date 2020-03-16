@@ -26,6 +26,10 @@ To do so, the model uses two parameters:
 - Gamma: The rate an infected recovers and moves into the resistant phase.
 - Beta: The parameter controlling how often a susceptible-infected contact results in a new infection.
 
+The model is based on 3 intereconneted differential equations using the parameters:
+
+<img width="677" alt="differential_equation" src="https://user-images.githubusercontent.com/55028120/76787601-b0244880-67b9-11ea-82b9-776a9efe16da.png">
+
 
 ## References 
 

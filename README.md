@@ -56,6 +56,10 @@ This means that the number of recovered cases at the time t is equal to the numb
 
 Beta controlls the infection rate. This means how many people an infected case will infect others. The transmission rate for a seasonal flue is around 1.3 [6], 2.7 for Ebola [7] and 2.35 for the Covid_19 [8]. In the later cited paper, the study showed that the transmission rate might change. A further analysis will show the importance of quarantine. 
 
+![Beta_explanation](https://user-images.githubusercontent.com/55028120/76792161-b539c580-67c2-11ea-8ac9-093d24a9f4d5.png)
+
+As it can be seen, the spread of infected cases is much faster for Ebola and Covid-19 than it is for the seasonal flue. Only the Beta has beed modified. 
+
 
 ## References 
 

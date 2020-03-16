@@ -38,6 +38,8 @@ The model is based on 3 intereconneted differential equations using the paramete
 
 Gamma control the recovery and the resistant phase. For the Covid-19, an infected case who has recovered is still susceptible to be re-infected. Indeed, a Japaneese tour bus guide has been tested positive after having recovered from an earlier infection [2]. A Chinese report also claimed that 14% of Recovered Covid-19 Patients in Guangdong Tested Positive Again [3] 
 
+Thus, the immunity parameter in the SIR model cannot be applied for the Covid-19. In our modification this parameter is, therefore, set to 0. The recovered rate is now governed by the probability of surviving the virus. This might change in future update. 
+
 
 ## References 
 

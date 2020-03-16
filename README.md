@@ -46,10 +46,8 @@ Moreover, the duration of hospitalisation or quarantine before a full recovery v
 
 Thus, our model for recovery is now: 
 
-<p align="center">
-  
-**Recovered(t) = Infected(t-14)*(1-0.07)**
-
+<p align="center"> 
+  Recovered(t) = Infected(t-14)*(1-0.07)
 </p>
 
 This means that the number of recovered cases at the time t is equal to the number of infected cases 14 days before times 93%, since 7% will die. 

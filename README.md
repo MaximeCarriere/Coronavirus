@@ -73,7 +73,7 @@ When the model is tested, it does not seem to fit the actual data. This is due t
 
 The model seems now a way better an even accurate.
 
-### Number of Death
+### Number of Deaths
 
 ![Data_prediction_shifted_death](https://user-images.githubusercontent.com/55028120/76893811-45444180-688d-11ea-98a9-242678930923.png)
 
@@ -83,9 +83,21 @@ Similarly the model seems also accurate for the number of deaths.
 
 The French governement has lockdowned the country with high restrictions. It is now forbidden to go out, except for necessary grocery or for medical purposes. Thus, the infection rate should now be greatly diminished. In our model, we divided the transmission rate by 2 and observe the effect for a couple of days and for a month. 
 
+### Number of Cases
+
 ![Quarantine_cases_2](https://user-images.githubusercontent.com/55028120/76902377-28633a80-689c-11ea-93ee-67bb43fbb5fe.png)
 
 For a short period, the number of cases seems to increase at a high pace, even in quarantine. However, when the period is extended over a month the effect of the quarantine is now extremely important. Indeed, without any quarantine almost all of the French population would have been infected at the end of April. Obviously, this would only be the case if absolutly no restriction was take. The fear of the virus itself would be enough to slow down this high progression. When a strict quarantine is set the number of infection remains relatively low. This shows the effect of quarantine and the necessity to respect it. 
+
+### Number of Deaths
+
+
+
+
+
+
+
+
 
 
 ## References 

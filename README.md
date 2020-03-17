@@ -83,7 +83,7 @@ Similarly the model seems also accurate for the number of deaths.
 
 The French governement has lockdowned the country with high restrictions. It is now forbidden to go out, except for necessary grocery or for medical purposes. Thus, the infection rate should now be greatly diminished. In our model, we divided the transmission rate by 2 and observe the effect for a couple of days and for a month. 
 
-![Quarantine_cases](https://user-images.githubusercontent.com/55028120/76901210-146b0900-689b-11ea-9dfe-aa748a9815bb.png)
+![Quarantine_cases_2](https://user-images.githubusercontent.com/55028120/76902377-28633a80-689c-11ea-93ee-67bb43fbb5fe.png)
 
 For a short period, the number of cases seems to increase at a high pace, even in quarantine. However, when the period is extended over a month the effect of the quarantine is now extremely important. Indeed, without any quarantine almost all of the French population would have been infected at the end of April. Whereas with the quarantine the number of infection remains relatively low. 
 

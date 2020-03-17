@@ -61,6 +61,14 @@ Beta controlls the infection rate. This means how many people an infected case w
 As it can be seen, the spread of infected cases is much faster for Ebola and Covid-19 than it is for the seasonal flue. Only the Beta has beed modified. 
 
 
+## Test the model 
+
+![Drawing_Data_prediction](https://user-images.githubusercontent.com/55028120/76892931-bd116c80-688b-11ea-8757-f58b82ae7874.png)
+
+When the model is tested, it does not seem to fit the actual data. This is due to the few number of cases at the begining that makes the strength of the spread lower at the start that expected in the model. To fit the current data, a simple task is to calibrate the model on the point of inflection. Thus, the point of inflexion appears 17 days in the actual data than prediction. If the predictions is shifted of 17 days the new comparison looks like that: 
+
+
+
 ## References 
 
 [1] http://systems-sciences.uni-graz.at/etextbook/sw2/sir.html

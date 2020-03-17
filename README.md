@@ -62,6 +62,7 @@ As it can be seen, the spread of infected cases is much faster for Ebola and Cov
 
 
 ## Test the model 
+### Number of Cases
 
 ![Drawing_Data_prediction](https://user-images.githubusercontent.com/55028120/76892931-bd116c80-688b-11ea-8757-f58b82ae7874.png)
 
@@ -72,6 +73,11 @@ When the model is tested, it does not seem to fit the actual data. This is due t
 
 The model seems now a way better an even accurate.
 
+### Number of Death
+
+![Data_prediction_shifted_death](https://user-images.githubusercontent.com/55028120/76893811-45444180-688d-11ea-98a9-242678930923.png)
+
+Similarly the model seems also accurate for the number of deaths. 
 
 ## References 
 

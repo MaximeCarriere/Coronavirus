@@ -91,7 +91,9 @@ For a short period, the number of cases seems to increase at a high pace, even i
 
 ### Number of Deaths
 
+![Quarantine_Death](https://user-images.githubusercontent.com/55028120/76902734-ed153b80-689c-11ea-8c98-8c114c30edd6.png)
 
+Here the effect of quarantine appears to be strong for the short period. For the long period, the effect of quarantine is consequent with less than 8000 deaths at the end of April agains 500 000 without. The latter number may sound extreme and could be related to the previous explanation about the fear itself of the virus and the self-restriction that population would have taken. However, with hundreeds of thousands of infected cases hospitals would be overwhelmed, hence the level of care would considerably diminished increasing the death rate. 
 
 
 

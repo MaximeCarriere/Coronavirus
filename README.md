@@ -67,6 +67,10 @@ As it can be seen, the spread of infected cases is much faster for Ebola and Cov
 
 When the model is tested, it does not seem to fit the actual data. This is due to the few number of cases at the begining that makes the strength of the spread lower at the start that expected in the model. To fit the current data, a simple task is to calibrate the model on the point of inflection. Thus, the point of inflexion appears 17 days in the actual data than prediction. If the predictions is shifted of 17 days the new comparison looks like that: 
 
+![Data_prediction_shifted](https://user-images.githubusercontent.com/55028120/76893489-b9cab080-688c-11ea-920f-fba1a4cf4898.png)
+
+
+The model seems now a way better an even accurate.
 
 
 ## References 

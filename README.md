@@ -40,7 +40,7 @@ Gamma control the recovery and the resistant phase. For the Covid-19, an infecte
 
 Thus, the immunity parameter in the SIR model cannot be applied for the Covid-19. In our modification this parameter is, therefore, set to 0. The recovered rate is now governed by the probability of surviving the virus. This might change in future update. 
 
-The death rate for the Covid-19 differs according to age, gender and underlying disorders. Previous research showed that it could reach 12% in infection site [4], but the death rate based on actual data is around 7% [5].
+The death rate for the Covid-19 differs according to age, gender and underlying disorders. Previous research showed that it could reach 12% in infection site [4], but the death rate based on actual data is around 7% [5]. However, this number might also vary depending of the strength of the health care system. For example in France the death rate in only of 2%. 
 
 Moreover, the duration of hospitalisation or quarantine before a full recovery varies with the severity of the symptoms. According to expert sources, the mean time is around 14 days. 
 

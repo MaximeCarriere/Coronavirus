@@ -85,7 +85,7 @@ The French governement has lockdowned the country with high restrictions. It is 
 
 ![Quarantine_cases_2](https://user-images.githubusercontent.com/55028120/76902377-28633a80-689c-11ea-93ee-67bb43fbb5fe.png)
 
-For a short period, the number of cases seems to increase at a high pace, even in quarantine. However, when the period is extended over a month the effect of the quarantine is now extremely important. Indeed, without any quarantine almost all of the French population would have been infected at the end of April. Whereas with the quarantine the number of infection remains relatively low. 
+For a short period, the number of cases seems to increase at a high pace, even in quarantine. However, when the period is extended over a month the effect of the quarantine is now extremely important. Indeed, without any quarantine almost all of the French population would have been infected at the end of April. Obviously, this would only be the case if absolutly no restriction was take. The fear of the virus itself would be enough to slow down this high progression. When a strict quarantine is set the number of infection remains relatively low. This shows the effect of quarantine and the necessity to respect it. 
 
 
 ## References 

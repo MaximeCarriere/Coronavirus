@@ -79,6 +79,12 @@ The model seems now a way better an even accurate.
 
 Similarly the model seems also accurate for the number of deaths. 
 
+## Effect of quarantine
+
+The French governement has lockdowned the country with high restrictions. It is now forbidden to go out, except for necessary grocery or for medical purposes. Thus, the infection rate should now be greatly diminished. In our model, we divided the transmission rate by 2 and observe the effect for a couple of days and for a month. 
+
+
+
 ## References 
 
 [1] http://systems-sciences.uni-graz.at/etextbook/sw2/sir.html

@@ -24,6 +24,11 @@ Moreover, the health care system has reached 8393 new hospitalisation due to the
 
 The Case Fatality Rate (CFR) represents the ratio of deaths on infected cases. Since the deaths occurs around 12 days after the infecttion the CFR is equal to the number of deaths at t+14 divided by the number of cases at t. 
 
+### Lombardia
+
+![lombardia_3](https://user-images.githubusercontent.com/55028120/77190469-947eb200-6ad9-11ea-8f9d-25254dfc04ac.png)
+
+As one can seen the CFR was around 0.6% at the begining of the outbreak and progressively decreased to be below 0.2%. 
 
 
 ### References

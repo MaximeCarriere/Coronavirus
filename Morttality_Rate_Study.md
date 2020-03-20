@@ -18,7 +18,11 @@ Italy represents the outbreak of the Covid-19 epidemy. It was the first country 
 Moreover, the health care system has reached 8393 new hospitalisation due to the Covid-19. The number of bed in Intensive Care Service (ICU) was 720 in Lombardia [2]. Thus, ICU were already saturated on the 03/03/2020. It is important to notice that only 5% to 10% of hospitalisation require an ICU bed. Therfore, using the number of hospitalisation to find the date of saturation might sound incorrect. Nevertheless, 90% of ICU beds were already occupied before the Covid-19. Althought, the number of hospitalisation is not the best mean to observe the ICU saturation, it provides a relatively accurate date. 
 
 
+### Case Fatality Rate
 
+![Case_Fata](https://user-images.githubusercontent.com/55028120/77190106-f25eca00-6ad8-11ea-8902-08b50eaf6f4a.png)
+
+The Case Fatality Rate (CFR) represents the ratio of deaths on infected cases. Since the deaths occurs around 12 days after the infecttion the CFR is equal to the number of deaths at t+14 divided by the number of cases at t. 
 
 
 

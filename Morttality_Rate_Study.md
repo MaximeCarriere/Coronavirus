@@ -28,7 +28,7 @@ The Case Fatality Rate (CFR) represents the ratio of deaths on infected cases. S
 
 ![lombardia_3](https://user-images.githubusercontent.com/55028120/77190469-947eb200-6ad9-11ea-8f9d-25254dfc04ac.png)
 
-As one can seen the CFR was around 0.6% at the begining of the outbreak and progressively decreased to be below 0.2%. 
+As one can seen the CFR was around 0.6% at the begining of the outbreak and progressively decreased to be below 0.2%. However, just after the saturation of ICU capacity, the CFR started to increase until it reached 0.8%. This would be due to the lack of bed leading to a less efficient level of health care and therefore more deaths.
 
 
 ### References
